@@ -1,7 +1,7 @@
 - 👋 Good morning, i am badeed
 - 👀 I’m interested in You
-- 🌱 I’m currently learning C#, Java,
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP, Python
+- 💞️ Learned: C, C++, C#, Java, JavaScript, HTML5, CSS, SQL, Unity, UE4, LUA, TS
 - 📫 How to reach me ... twitter.com/badeedNA twitch.tv/badeed youtube.com/badeed
 
 <!---
