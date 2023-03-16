@@ -1,6 +1,7 @@
 # Good morning, i am badeed 👋
 
-I'm a software developer with experience in various programming languages and game engines.
+I'm a Software Engineer with experience in various things...
+Started been coding for over 10+ years so i got a degree
 
 ## About Me
 
