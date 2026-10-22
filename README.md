@@ -12,9 +12,4 @@ Started been coding for over 10+ years so i got a degree
 
 ## Connect with Me
 
-You can find me on social media using the following links:
-
-- [Twitter](https://twitter.com/badeedNA)
-- [Twitch](https://twitch.tv/badeed)
-- [YouTube](https://youtube.com/badeed)
-- Personal Website Soon™
+Find me somewhere.
