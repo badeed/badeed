@@ -1,7 +1,7 @@
 # Good morning, i am badeed 👋
 
 I'm a Software Engineer with experience in various things...
-Started been coding for over 10+ years so i got a degree
+Started Journey 10+ years so i got a degree
 
 ## About Me
 
